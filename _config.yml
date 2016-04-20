@@ -1,4 +1,4 @@
-title:            Blog Title
+title:            Nodes Tech
 description:      Describe your website here.
 # put your disqus here
 disqus_shortname: 
@@ -38,7 +38,7 @@ menu:
 # Owner/author information
 owner:
   name:           Your name
-  site:           http://aronbordin.com
+  site:           https://test-blog.nodescloud.com
   avatar:         images/avatar.jpg
   bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
   email:          you@email.com
