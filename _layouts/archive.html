@@ -6,7 +6,7 @@ layout: default
   <div class="site-header-container {% if site.cover %}has-cover{% endif %}" {% if site.cover %}style="background-image: url({{ site.cover | prepend: site.baseurl }});"{% endif %}>
     <div class="scrim {% if site.cover %}has-cover{% endif %}">
       <header class="site-header">
-        <h1 class="title">Nodes Developer Blog: Posts in "{{ page.title | capitalize }}"</h1>
+        <h1 class="title">Nodes Developer Blog</h1>
       </header>
     </div>
   </div>
@@ -14,11 +14,36 @@ layout: default
   <div class="wrapper">
 
     <center>
+      {% if page.title == 'ios' %}
+        <b>iOS</b>&nbsp;&nbsp;&nbsp;&nbsp;
+      {% else %}
       <a href="{{ site.baseurl }}/category/ios">iOS</a>&nbsp;&nbsp;&nbsp;&nbsp;
+      {% endif %}
+
+      {% if page.title == 'android' %}
+      <b>Android</b>&nbsp;&nbsp;&nbsp;&nbsp;
+      {% else %}
       <a href="{{ site.baseurl }}/category/android">Android</a>&nbsp;&nbsp;&nbsp;&nbsp;
+      {% endif %}
+
+      {% if page.title == 'frontend' %}
+      <b>Frontend</b>&nbsp;&nbsp;&nbsp;&nbsp;
+      {% else %}
       <a href="{{ site.baseurl }}/category/frontend">Frontend</a>&nbsp;&nbsp;&nbsp;&nbsp;
+      {% endif %}
+
+      {% if page.title == 'php' %}
+      <b>PHP</b>&nbsp;&nbsp;&nbsp;&nbsp;
+      {% else %}
       <a href="{{ site.baseurl }}/category/php">PHP</a>&nbsp;&nbsp;&nbsp;&nbsp;
+      {% endif %}
+
+      {% if page.title == 'operations' %}
+      <b>Operations</b>&nbsp;&nbsp;&nbsp;&nbsp;
+      {% else %}
       <a href="{{ site.baseurl }}/category/operations">Operations</a>
+      {% endif %}
+
     </center>
     <ul class="post-list">
       {% for post in page.posts %}
