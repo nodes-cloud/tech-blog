@@ -21,7 +21,7 @@ url: "https://tech-blog.nodescloud.com" # the base hostname & protocol for your 
 #baseurl: "/tech-blog/_site/" # the subpath of your site, e.g. /blog/
 #url: "http://local-like.st"
 cover: "/assets/frontpage_header_bg_new.png"
-logo: "/assets/nodeslogo.png"
+#logo: "/assets/nodeslogo.png"
 
 # Build settings
 markdown: kramdown

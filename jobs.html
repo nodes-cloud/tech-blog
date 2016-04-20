@@ -1,8 +1,18 @@
 ---
-layout: page
+layout: default
 title: Tech jobs
 permalink: /tech-jobs/
 ---
+<div class="home">
+<div class="site-header-container {% if site.cover %}has-cover{% endif %}" {% if site.cover %}style="background-image: url({{ site.cover | prepend: site.baseurl }});"{% endif %}>
+  <div class="scrim {% if site.cover %}has-cover{% endif %}">
+    <header class="site-header">
+      <h1 class="title">Tech jobs</h1>
+    </header>
+  </div>
+</div>
 
+<div class="wrapper">
 <p>Here are our current tech job openings:</p>
-<hr>
+</div>
+</div>
