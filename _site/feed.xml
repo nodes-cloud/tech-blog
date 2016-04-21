@@ -4,10 +4,10 @@
     <title>Nodes Developer</title>
     <description>What is going on with the Nodes developers
 </description>
-    <link>https://tech-blog.nodescloud.com/</link>
-    <atom:link href="https://tech-blog.nodescloud.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 20 Apr 2016 23:06:46 +0000</pubDate>
-    <lastBuildDate>Wed, 20 Apr 2016 23:06:46 +0000</lastBuildDate>
+    <link>https://nodes.dk/test-blog/</link>
+    <atom:link href="https://nodes.dk/test-blog/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 21 Apr 2016 10:38:16 +0000</pubDate>
+    <lastBuildDate>Thu, 21 Apr 2016 10:38:16 +0000</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -68,8 +68,8 @@ function demo(string, times) {
 
 </description>
         <pubDate>Sat, 18 Apr 2015 08:43:59 +0000</pubDate>
-        <link>https://tech-blog.nodescloud.com/php/2015/04/18/test5.html</link>
-        <guid isPermaLink="true">https://tech-blog.nodescloud.com/php/2015/04/18/test5.html</guid>
+        <link>https://nodes.dk/test-blog/php/2015/04/18/test5.html</link>
+        <guid isPermaLink="true">https://nodes.dk/test-blog/php/2015/04/18/test5.html</guid>
         
         <category>jekyll</category>
         
@@ -138,8 +138,8 @@ function demo(string, times) {
 
 </description>
         <pubDate>Sat, 18 Apr 2015 08:43:59 +0000</pubDate>
-        <link>https://tech-blog.nodescloud.com/frontend/2015/04/18/test4.html</link>
-        <guid isPermaLink="true">https://tech-blog.nodescloud.com/frontend/2015/04/18/test4.html</guid>
+        <link>https://nodes.dk/test-blog/frontend/2015/04/18/test4.html</link>
+        <guid isPermaLink="true">https://nodes.dk/test-blog/frontend/2015/04/18/test4.html</guid>
         
         <category>jekyll</category>
         
@@ -208,8 +208,8 @@ function demo(string, times) {
 
 </description>
         <pubDate>Sat, 18 Apr 2015 08:43:59 +0000</pubDate>
-        <link>https://tech-blog.nodescloud.com/android/2015/04/18/test3.html</link>
-        <guid isPermaLink="true">https://tech-blog.nodescloud.com/android/2015/04/18/test3.html</guid>
+        <link>https://nodes.dk/test-blog/android/2015/04/18/test3.html</link>
+        <guid isPermaLink="true">https://nodes.dk/test-blog/android/2015/04/18/test3.html</guid>
         
         <category>jekyll</category>
         
@@ -278,8 +278,8 @@ function demo(string, times) {
 
 </description>
         <pubDate>Sat, 18 Apr 2015 08:43:59 +0000</pubDate>
-        <link>https://tech-blog.nodescloud.com/ios/2015/04/18/test2.html</link>
-        <guid isPermaLink="true">https://tech-blog.nodescloud.com/ios/2015/04/18/test2.html</guid>
+        <link>https://nodes.dk/test-blog/ios/2015/04/18/test2.html</link>
+        <guid isPermaLink="true">https://nodes.dk/test-blog/ios/2015/04/18/test2.html</guid>
         
         <category>jekyll</category>
         
@@ -348,8 +348,8 @@ function demo(string, times) {
 
 </description>
         <pubDate>Sat, 18 Apr 2015 08:43:59 +0000</pubDate>
-        <link>https://tech-blog.nodescloud.com/operations/2015/04/18/test1.html</link>
-        <guid isPermaLink="true">https://tech-blog.nodescloud.com/operations/2015/04/18/test1.html</guid>
+        <link>https://nodes.dk/test-blog/operations/2015/04/18/test1.html</link>
+        <guid isPermaLink="true">https://nodes.dk/test-blog/operations/2015/04/18/test1.html</guid>
         
         <category>jekyll</category>
         
